@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: chromatst
+Version: 0.0.1
+Author: Yulia
+Author-email: ulechek.kul@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-chroma
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Requires-Dist: chromadb
+Requires-Dist: tiktoken
